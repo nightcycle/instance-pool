@@ -1,4 +1,5 @@
 --!strict
+--!native
 --Services
 --Packages
 local Package = script
