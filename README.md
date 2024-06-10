@@ -1,2 +1,2 @@
-# package
-A basic template for whenever I make a wally package
+# instance-pool
+Ported and made type-safe
